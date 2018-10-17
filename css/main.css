@@ -32,11 +32,11 @@ html {
   margin: 0 auto 1rem;
 }
 
-.cards stong {
+.cards strong {
   display: block;
   margin-bottom: 1rem;
 
-  font-size: 1.125rem
+  font-size: 1.125rem;
 }
 
 .cards dl {
@@ -70,5 +70,5 @@ html {
 
 .cards a:hover {
   background-color: #333;
-  color: #fff
+  color: #fff;
 }
